@@ -1,0 +1,11 @@
+.hero h1 {
+    font-size: 36px;
+    font-weight: 600;
+    /* Other styles */
+}
+
+.hero p {
+    font-size: 20px;
+    font-weight: 400;
+    /* Other styles */
+}

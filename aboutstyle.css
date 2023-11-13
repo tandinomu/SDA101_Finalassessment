@@ -1,0 +1,106 @@
+.intro {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+h3 {
+    position: absolute;
+    top: 70%;
+    right: 45%;
+    font-size: 30px;
+}
+.line {
+    width: 200%;
+    height: 2px; /* You can adjust the height to change the thickness of the line */
+    background-color: black; /* You can change the color of the line */
+    position: absolute;
+    top: 77%;
+    right: 0;
+}
+.line1 {
+    width: 8px;
+    height: 80%; /* You can adjust the height to change the thickness of the line */
+    background-color: black; /* You can change the color of the line */
+    position: absolute;
+    top: 83%;
+    right: 52%;
+}
+.school {
+    position: absolute;
+    top: 110%;
+    right: 43%;
+}
+.education {
+    position: absolute;
+    top: 85%;
+    right: 57%;
+}
+.people {
+    position: absolute;
+    top: 125%;
+    right: 57%;
+}
+.college {
+    position: absolute;
+    top: 100%;
+    right: 53%;
+}
+.year {
+    position: absolute;
+    top: 120%;
+    right: 30%;
+}
+.pp {
+    position: absolute;
+    top: 140%;
+    right: 53%;
+}
+.line2 {
+    width: 200%;
+    height: 2px; /* You can adjust the height to change the thickness of the line */
+    background-color: black; /* You can change the color of the line */
+    position: absolute;
+    top: 175%;
+    right: 0;
+}
+.experience {
+    position: absolute;
+    top: 170%;
+    right: 45.5%;
+    font-size: 30px;
+}
+.bullet {
+    position: absolute;
+    top: 185%;
+    right: 70%;
+}
+.program {
+    position: absolute;
+    top: 185%;
+    right: 25%;
+    font-size: 20px;
+}
+.understand {
+    position: absolute;
+    top: 202%;
+    right: 19%;
+    font-size: 20px;
+}
+.design {
+    position: absolute;
+    top: 219%;
+    right: 49%;
+    font-size: 20px;
+}
+.team {
+    position: absolute;
+    top: 235%;
+    right: 30%;
+    font-size: 20px;
+}
+.test {
+    position: absolute;
+    top: 250%;
+    right: 28%;
+    font-size: 20px;
+}
